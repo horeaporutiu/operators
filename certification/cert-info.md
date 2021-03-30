@@ -1,4 +1,4 @@
-# Info about operator certification
+# Information about operator certification
 
 
  Red Hat OpenShift Certified Operators allow customers to use the operational expertise of application providers, reducing configuration drift and driving better consistency and supportability.
@@ -16,11 +16,24 @@
 Check out the detailed guide to OpenShift Operator Certification
 - [Partner Guide for OpenShift Operator and Container Certification](https://redhat-connect.gitbook.io/partner-guide-for-red-hat-openshift-and-container/)
 
-In general, to have a Certified Operator, you must first complete the Container Application Certification for all the applications you will be deploying with your operator. 
 Focus areas:
-1. Operator Certification workflow 
+1. In general, to have a Certified Operator, you must first complete the Container Application Certification for all the applications you will be deploying with your operator. 
+
     ![Certification workflow](https://github.ibm.com/TT-ISV-org/operator/blob/operator-certification/images/Certification-workflow.png)
 
+2. Technical Prerequisites include 
+
+
+1. Operator Image Certification
+
+
+Red Hat awards OpenShift Certification Badges to Kubernetes Operators built and tested for specific-use, cloud-native cases—like networking and storage—and comply with industry-standard specifications or domain best practices. Current OpenShift Certification Badges are:
+
+• Container Storage Interface (CSI)—for providing and supporting a block/file persistent storage backend for OpenShift.
+
+• Container Networking Interface (CNI)—for delivery of networking services through a pluggable framework.
+
+• Cloud-Native Network Functions (CNF)—for implementation of Telco functions deployed as containers.
 
 Other references:
 - [Red Hat OpenShift Operator Certification](https://www.openshift.com/blog/red-hat-openshift-operator-certification) (blog)
@@ -28,3 +41,5 @@ Other references:
 - [Red Hat OpenShift Operator Certification](https://redhat-connect.gitbook.io/red-hat-partner-connect-general-guide/certification-offerings/red-hat-openshift-operator-certification-1) (Git Book)
 - [Red Hat OpenShift Operator Certification Data Sheet](https://connect.redhat.com/sites/default/files/2020-07/RH-OpenShift-Operator-Cert-Datasheet-US_062020F4.pdf)
 - [Red Hat Ecosystem Catalog: Certified OpenShift Operators](https://catalog.redhat.com/software/operators/explore)
+- [OpenShift Certification Badges](https://www.openshift.com/blog/badge-announcement-blog) (blog)
+- [Certify your Operator Image](https://redhat-connect.gitbook.io/partner-guide-for-red-hat-openshift-and-container/certify-your-operator/creating-an-operator-project)
