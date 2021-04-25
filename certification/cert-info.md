@@ -1,8 +1,6 @@
 # Information about operator certification
 
 
- Red Hat OpenShift Certified Operators allow customers to use the operational expertise of application providers, reducing configuration drift and driving better consistency and supportability.
-
  At a high level the Operator certification steps include:
  1. Confirming that the application’s container images and Operator image is Red Hat   certified. Certified images must be:
     1. Built using Red Hat Enterprise Linux or Red Hat Universal Base Image as the base layer.
