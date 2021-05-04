@@ -59,20 +59,20 @@ In general, to have a Certified Operator, you must first complete the Container 
 
 The certification of an operator as shown in the above image is done 2 stages as follows:
 
-1. Operator image certification process:
+- Operator image certification process:
 
-    . Create a Container Image project in https://connect.redhat.com/projects
-    . Update operator files for certification.
-    . Build and test the operator image.
-    . Upload the operator image to scan.connect.redhat.com
+    - Create a Container Image project in https://connect.redhat.com/projects
+    - Update operator files for certification.
+    - Build and test the operator image.
+    - Upload the operator image to scan.connect.redhat.com
 
-2. Operator bundle image certification process:
+- Operator bundle image certification process:
 
-    . Create an Operator Bundle Image project in https://connect.redhat.com/projects
-    . Bundle the operator
-    . Update operator bundle files for certification
-    . Build and test the bundle image
-    . Upload the operator bundle image to scan.connect.redhat.com
+    - Create an Operator Bundle Image project in https://connect.redhat.com/projects
+    - Bundle the operator
+    - Update operator bundle files for certification
+    - Build and test the bundle image
+    - Upload the operator bundle image to scan.connect.redhat.com
 
 How to create the Operator images:
 There are 3 kind of Operators available according to the Operator maturity model as follows:
