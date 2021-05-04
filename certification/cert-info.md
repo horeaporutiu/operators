@@ -19,6 +19,20 @@
 3. The Operator and Application images then undergo a security health check.
 4. Once they complete the health checks the RH team will post the Operator in the embedded OperatorHub.
 
+## Why-certify-operators
+
+[Red Hat OpenShift Operator Certification](https://www.openshift.com/blog/red-hat-openshift-operator-certification) (Ref blog)
+
+Some of the Key benefits of Red Hat OpenShift and Operators are as follows:
+- Extends and orchestrates Kubernetes to reliably streamline and automate installation, updates, back-ups, and management of container-based services.
+- Runs an entire platform in an autonomous manner, scaling clusters easily, consistently, and automatically.
+- Allows users to manage appli-cations using Kubernetes APIs, exposing only the relevant options for the application.
+- Built on Red Hat Enterprise Linux™, so it’s enterprise grade unlike other offerings.
+- Standardizes and simplifies installation and upgrades of the complete software stack, from operating system to application.
+- Codifies and packages best practices and business workflows, with consistency across hybrid cloud platforms.
+- Continuously scans for anything out of place to deliver a NoOps experience, regardless of infrastructure.
+
+
 ## Configuring Account
 
 In order to certify an image you first need to create and configure a Red Hat Technology Partner account, to login here at [Certified Technology portal](https://connect.redhat.com/login)
